@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				353
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				458
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				156,
+				441
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				206,
+				391
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Hq/WhittySpritesHQ",
+	"position": [
+		-100,
+		430
+	],
+	"healthicon": "whittyog",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		60
+	],
+	"camera_position": [
+		250,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

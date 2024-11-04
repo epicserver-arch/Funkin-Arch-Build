@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				-11,
+				30
 			],
 			"loop": false,
 			"fps": 24,
@@ -135,7 +135,7 @@
 		{
 			"offsets": [
 				37,
-				10
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -157,7 +157,7 @@
 		{
 			"offsets": [
 				37,
-				9
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -200,7 +200,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF_Knife_death",
+	"image": "characters/BF_post_exp",
 	"position": [
 		0,
 		350
@@ -213,9 +213,10 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		300,
+		-190
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1,
+	"cammove": 35
 }

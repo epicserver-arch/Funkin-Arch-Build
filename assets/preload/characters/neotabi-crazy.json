@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				607,
+				-31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MadTabiIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				864,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MadTabiLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				667,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MadTabiDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				656,
+				147
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MadTabiUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MadTabiRight",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/neo/MadTabiNeo",
+	"position": [
+		320,
+		-20
+	],
+	"healthicon": "neotabi-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		255,
+		255
+	],
+	"camera_position": [
+		-200,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

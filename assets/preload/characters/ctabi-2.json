@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				58,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tabi Idle"
+		},
+		{
+			"offsets": [
+				189,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tabi Left"
+		},
+		{
+			"offsets": [
+				84,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tabi Up"
+		},
+		{
+			"offsets": [
+				116,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tabi Down"
+		},
+		{
+			"offsets": [
+				94,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tabi Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/corrupted/tabi-2",
+	"position": [
+		-700,
+		30
+	],
+	"healthicon": "tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		20,
+		10
+	],
+	"camera_position": [
+		400,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

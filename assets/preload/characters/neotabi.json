@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tabi Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				-109
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tabi Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tabi Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tabi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-64
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tabi Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/neo/NeoTabi",
+	"position": [
+		-320,
+		-20
+	],
+	"healthicon": "neotabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		120
+	],
+	"camera_position": [
+		400,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
