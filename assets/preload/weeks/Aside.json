@@ -1,0 +1,49 @@
+{
+	"storyName": "Aside",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"wWhitty",
+		""
+	],
+	"songs": [
+		[
+			"Low Revs",
+			"Aside-whitty",
+			[
+				90,
+				79,
+				60
+			]
+		],
+		[
+			"Detonator",
+			"Aside-whitty",
+			[
+				90,
+				79,
+				60
+			]
+		],
+		[
+			"Bomblitz",
+			"Aside-whitty",
+			[
+				90,
+				79,
+				60
+			]
+		]
+	],
+	"weekName": "Aside"
+}

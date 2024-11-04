@@ -1,0 +1,49 @@
+{
+	"storyName": "neo",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tabi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"neomy-battle",
+			"neotabi",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"neolast-chance",
+			"neotabi",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"neogenocide",
+			"neotabi-crazy",
+			[
+				46,
+				53,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "curse"
+}

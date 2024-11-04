@@ -1,0 +1,49 @@
+{
+	"storyName": "corr",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tabi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"my-bd",
+			"tabi",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"last-ov",
+			"tabi",
+			[
+				86,
+				113,
+				135
+			]
+		],
+		[
+			"deadly-genocide-v2",
+			"tabi-crazy",
+			[
+				46,
+				53,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "corr"
+}

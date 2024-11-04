@@ -1,0 +1,31 @@
+{
+	"storyName": "antithesis",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tabi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"antithesis",
+			"tabi-crazy",
+			[
+				46,
+				53,
+				75
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "antithesis"
+}
